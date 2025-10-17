@@ -1,0 +1,35 @@
+{
+  "id": "prop-003",
+  "title": "Luxury Townhouse with Rooftop Deck",
+  "address": "789 Elm Boulevard",
+  "city": "Brookwood",
+  "state": "IL",
+  "zipCode": "62703",
+  "price": 2800,
+  "bedrooms": 3,
+  "bathrooms": 2.5,
+  "sqft": 2100,
+  "type": "townhouse",
+  "status": "available",
+  "featured": true,
+  "description": "Stunning 3-level townhouse with modern finishes throughout. Features include gourmet kitchen with granite countertops, spacious master suite with spa-like bathroom, and an incredible rooftop deck with city views. Attached 2-car garage and private entrance.",
+  "amenities": [
+    "Rooftop Deck",
+    "Central Air",
+    "Granite Countertops",
+    "Stainless Steel Appliances",
+    "Walk-in Closets",
+    "Attached Garage",
+    "Smart Home Features",
+    "Gas Fireplace"
+  ],
+  "images": [
+    "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+    "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800&q=80",
+    "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800&q=80"
+  ],
+  "yearBuilt": 2020,
+  "parking": "2-car attached garage",
+  "petsAllowed": true,
+  "laundry": "In-unit washer/dryer"
+}

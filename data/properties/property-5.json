@@ -1,0 +1,35 @@
+{
+  "id": "prop-005",
+  "title": "Contemporary Condo with Pool Access",
+  "address": "555 Riverside Drive, Unit 12C",
+  "city": "Brookwood",
+  "state": "IL",
+  "zipCode": "62701",
+  "price": 1750,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sqft": 1200,
+  "type": "condo",
+  "status": "rented",
+  "featured": false,
+  "description": "Modern 2-bedroom condo in a luxury building. Open floor plan with floor-to-ceiling windows offering stunning river views. Building amenities include fitness center, pool, and 24-hour concierge. One assigned parking space included.",
+  "amenities": [
+    "Pool",
+    "Fitness Center",
+    "Concierge",
+    "River Views",
+    "Balcony",
+    "In-unit Laundry",
+    "Central Air",
+    "Assigned Parking"
+  ],
+  "images": [
+    "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80",
+    "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=80",
+    "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&q=80"
+  ],
+  "yearBuilt": 2018,
+  "parking": "1 assigned space",
+  "petsAllowed": false,
+  "laundry": "In-unit washer/dryer"
+}

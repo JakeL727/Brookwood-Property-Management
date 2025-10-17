@@ -1,0 +1,34 @@
+{
+  "id": "prop-002",
+  "title": "Charming Downtown Apartment",
+  "address": "456 Oak Avenue, Unit 3B",
+  "city": "Brookwood",
+  "state": "IL",
+  "zipCode": "62702",
+  "price": 1400,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "sqft": 950,
+  "type": "apartment",
+  "status": "available",
+  "featured": true,
+  "description": "Cozy 2-bedroom apartment in the heart of downtown. Walking distance to restaurants, shops, and public transit. Features include updated kitchen, plenty of natural light, and secure building access. Perfect for young professionals or small families.",
+  "amenities": [
+    "Central Heat",
+    "Air Conditioning",
+    "Hardwood Floors",
+    "Dishwasher",
+    "Elevator Access",
+    "Secure Entry",
+    "Storage Unit"
+  ],
+  "images": [
+    "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+    "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+    "https://images.unsplash.com/photo-1502672260066-6bc358369c2c?w=800&q=80"
+  ],
+  "yearBuilt": 2008,
+  "parking": "Street parking",
+  "petsAllowed": false,
+  "laundry": "Shared laundry room"
+}

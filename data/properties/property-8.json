@@ -1,0 +1,35 @@
+{
+  "id": "prop-008",
+  "title": "Victorian Home with Historic Charm",
+  "address": "1357 Heritage Street",
+  "city": "Brookwood",
+  "state": "IL",
+  "zipCode": "62704",
+  "price": 2400,
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "sqft": 3200,
+  "type": "house",
+  "status": "available",
+  "featured": true,
+  "description": "Magnificent Victorian home beautifully restored with period details intact. High ceilings, ornate woodwork, original stained glass windows, and a grand staircase. Large rooms perfect for entertaining. Located in the historic district with tree-lined streets.",
+  "amenities": [
+    "Historic Details",
+    "Hardwood Floors",
+    "Original Woodwork",
+    "Stained Glass",
+    "Front Porch",
+    "Formal Dining Room",
+    "Library/Office",
+    "Carriage House"
+  ],
+  "images": [
+    "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+    "https://images.unsplash.com/photo-1600585152915-d208bec867a1?w=800&q=80",
+    "https://images.unsplash.com/photo-1600047509358-9dc75507daeb?w=800&q=80"
+  ],
+  "yearBuilt": 1895,
+  "parking": "Detached carriage house",
+  "petsAllowed": true,
+  "laundry": "Basement"
+}

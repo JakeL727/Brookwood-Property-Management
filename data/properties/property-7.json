@@ -1,0 +1,33 @@
+{
+  "id": "prop-007",
+  "title": "Updated Apartment Near University",
+  "address": "888 College Avenue, Unit 2A",
+  "city": "Brookwood",
+  "state": "IL",
+  "zipCode": "62702",
+  "price": 1200,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "sqft": 700,
+  "type": "apartment",
+  "status": "available",
+  "featured": false,
+  "description": "Freshly renovated 1-bedroom apartment located near the university campus. Perfect for students or young professionals. Features new flooring, updated kitchen and bathroom, and plenty of closet space. Walking distance to campus, restaurants, and shops.",
+  "amenities": [
+    "Recently Updated",
+    "New Flooring",
+    "Modern Kitchen",
+    "Ample Storage",
+    "On-site Parking",
+    "Heat Included"
+  ],
+  "images": [
+    "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800&q=80",
+    "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?w=800&q=80",
+    "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&q=80"
+  ],
+  "yearBuilt": 2005,
+  "parking": "Off-street lot",
+  "petsAllowed": false,
+  "laundry": "Coin-op on site"
+}

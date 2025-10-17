@@ -1,0 +1,34 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/images/properties"
+public_folder: "/images/properties"
+
+collections:
+  - name: "properties"
+    label: "Properties"
+    folder: "data/properties"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Property ID", name: "id", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Address", name: "address", widget: "string" }
+      - { label: "City", name: "city", widget: "string" }
+      - { label: "State", name: "state", widget: "string" }
+      - { label: "ZIP Code", name: "zipCode", widget: "string" }
+      - { label: "Price", name: "price", widget: "number" }
+      - { label: "Bedrooms", name: "bedrooms", widget: "number" }
+      - { label: "Bathrooms", name: "bathrooms", widget: "number" }
+      - { label: "Square Feet", name: "sqft", widget: "number" }
+      - { label: "Property Type", name: "type", widget: "select", options: ["house", "apartment", "condo", "townhouse"] }
+      - { label: "Status", name: "status", widget: "select", options: ["available", "rented", "maintenance"] }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Amenities", name: "amenities", widget: "list" }
+      - { label: "Images", name: "images", widget: "list", field: { label: "Image", name: "image", widget: "image" } }
+      - { label: "Year Built", name: "yearBuilt", widget: "number", required: false }
+      - { label: "Parking", name: "parking", widget: "string", required: false }
+      - { label: "Pets Allowed", name: "petsAllowed", widget: "boolean", default: false }
+      - { label: "Laundry", name: "laundry", widget: "string", required: false }

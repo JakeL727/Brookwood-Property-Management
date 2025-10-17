@@ -1,0 +1,35 @@
+{
+  "id": "prop-006",
+  "title": "Spacious Ranch with Large Lot",
+  "address": "2468 Cedar Court",
+  "city": "Brookwood",
+  "state": "IL",
+  "zipCode": "62705",
+  "price": 2100,
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "sqft": 2600,
+  "type": "house",
+  "status": "available",
+  "featured": true,
+  "description": "Sprawling ranch home on nearly an acre of land. Perfect for families who love outdoor space. Features include vaulted ceilings, sunroom, finished basement with rec room, and three-season porch. Plenty of room to spread out and enjoy.",
+  "amenities": [
+    "Large Lot",
+    "Finished Basement",
+    "Sunroom",
+    "Three-Season Porch",
+    "Vaulted Ceilings",
+    "Central Air",
+    "Two-Car Garage",
+    "Shed"
+  ],
+  "images": [
+    "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&q=80",
+    "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=80",
+    "https://images.unsplash.com/photo-1600566753151-384129cf4e3e?w=800&q=80"
+  ],
+  "yearBuilt": 1998,
+  "parking": "2-car garage + driveway",
+  "petsAllowed": true,
+  "laundry": "Basement"
+}

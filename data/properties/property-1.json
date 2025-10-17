@@ -1,0 +1,35 @@
+{
+  "id": "prop-001",
+  "title": "Modern Family Home with Spacious Backyard",
+  "address": "1234 Maple Street",
+  "city": "Springfield",
+  "state": "IL",
+  "zipCode": "62701",
+  "price": 2200,
+  "bedrooms": 4,
+  "bathrooms": 2.5,
+  "sqft": 2400,
+  "type": "house",
+  "status": "available",
+  "featured": true,
+  "description": "Beautiful 4-bedroom family home featuring an open-concept living area, updated kitchen with stainless steel appliances, and a large backyard perfect for entertaining. The master suite includes a walk-in closet and ensuite bathroom. Hardwood floors throughout the main level.",
+  "amenities": [
+    "Central Air Conditioning",
+    "Hardwood Floors",
+    "Dishwasher",
+    "Garbage Disposal",
+    "Fireplace",
+    "Deck",
+    "Fenced Yard",
+    "Two-Car Garage"
+  ],
+  "images": [
+    "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+    "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+    "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80"
+  ],
+  "yearBuilt": 2015,
+  "parking": "2-car garage",
+  "petsAllowed": true,
+  "laundry": "In-unit washer/dryer"
+}

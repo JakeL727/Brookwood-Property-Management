@@ -1,0 +1,35 @@
+{
+  "id": "prop-010",
+  "title": "Modern Loft in Converted Warehouse",
+  "address": "741 Industrial Boulevard, Loft 5",
+  "city": "Brookwood",
+  "state": "IL",
+  "zipCode": "62701",
+  "price": 1950,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "sqft": 1400,
+  "type": "apartment",
+  "status": "available",
+  "featured": true,
+  "description": "Stunning loft in a beautifully converted industrial building. Soaring 14-foot ceilings, exposed brick walls, and massive windows flood the space with natural light. Chef's kitchen with island, open living concept, and industrial-chic finishes throughout.",
+  "amenities": [
+    "High Ceilings",
+    "Exposed Brick",
+    "Concrete Floors",
+    "Modern Kitchen",
+    "Walk-in Closets",
+    "Secure Building",
+    "Bike Storage",
+    "Rooftop Terrace"
+  ],
+  "images": [
+    "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&q=80",
+    "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+    "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&q=80"
+  ],
+  "yearBuilt": 2019,
+  "parking": "Underground garage",
+  "petsAllowed": true,
+  "laundry": "In-unit washer/dryer"
+}
