@@ -3,12 +3,6 @@ import property2 from '../../data/properties/property-2.json';
 import property3 from '../../data/properties/property-3.json';
 import property4 from '../../data/properties/property-4.json';
 import property5 from '../../data/properties/property-5.json';
-import property6 from '../../data/properties/property-6.json';
-import property7 from '../../data/properties/property-7.json';
-import property8 from '../../data/properties/property-8.json';
-import property9 from '../../data/properties/property-9.json';
-import property10 from '../../data/properties/property-10.json';
-import property11 from '../../data/properties/property-11.json';
 
 export interface Property {
   id: string;
@@ -39,12 +33,6 @@ const allProperties: Property[] = [
   property3,
   property4,
   property5,
-  property6,
-  property7,
-  property8,
-  property9,
-  property10,
-  property11,
 ] as Property[];
 
 export function getAllProperties(): Property[] {

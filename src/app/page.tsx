@@ -14,11 +14,11 @@ export default function HomePage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
             <div className="text-center max-w-4xl mx-auto">
               <h1 className="text-5xl md:text-7xl font-bold text-foreground mb-8 leading-tight">
-                Your Home Awaits at<br />
-                <span className="text-primary">Brookwood</span>
+                Your Home Awaits in<br />
+                <span className="text-primary">Georgia</span>
               </h1>
               <p className="text-xl md:text-2xl text-muted-foreground mb-12 max-w-2xl mx-auto leading-relaxed">
-                Discover quality rental homes managed with care. Experience the difference of professional property management.
+                Discover quality rental homes in Snellville and Lawrenceville, Georgia. Experience the difference of professional property management with flexible payment options.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button asChild size="lg" className="text-lg px-10 py-6 h-auto shadow-lg hover:shadow-xl transition-all">

@@ -5,8 +5,8 @@ import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Brookwood Property Management - Quality Rental Homes",
-  description: "Find your perfect rental home with Brookwood Property Management. Browse our selection of houses, apartments, condos, and townhouses.",
+  title: "Brookwood Property Management - Quality Rental Homes in Georgia",
+  description: "Find your perfect rental home with Brookwood Property Management. Quality homes in Snellville and Lawrenceville, Georgia with flexible payment options.",
 };
 
 export default function RootLayout({

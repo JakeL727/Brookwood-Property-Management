@@ -29,9 +29,9 @@ export default function AboutPage() {
                 <div className="prose max-w-none text-muted-foreground space-y-4">
                   <p>
                     Brookwood Property Management was founded in 2013 with a simple mission: to provide quality, 
-                    affordable rental properties to families and individuals in the Brookwood area. 
-                    What started as a small operation with just three properties has grown into a trusted 
-                    rental company managing 11 well-maintained homes throughout the city.
+                    affordable rental properties to families and individuals in the greater Atlanta area. 
+                    What started as a small operation has grown into a trusted rental company managing 
+                    5 well-maintained homes throughout Snellville and Lawrenceville, Georgia.
                   </p>
                   <p>
                     Over the years, we've built our reputation on transparency, responsiveness, and a 
@@ -40,9 +40,11 @@ export default function AboutPage() {
                     that promise.
                   </p>
                   <p>
-                    Our properties range from cozy apartments perfect for young professionals to spacious 
-                    family homes with yards and garages. Each property is carefully maintained and regularly 
-                    inspected to ensure it meets our high standards of quality and safety.
+                    Our properties range from charming family homes in quiet neighborhoods to modern homes 
+                    with updated features. Each property is carefully maintained and regularly inspected 
+                    to ensure it meets our high standards of quality and safety. We specialize in single-family 
+                    homes in the Snellville and Lawrenceville areas, offering flexible payment options to 
+                    accommodate our tenants' needs.
                   </p>
                 </div>
               </CardContent>
@@ -112,10 +114,11 @@ export default function AboutPage() {
             <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Our Team</h2>
             <Card>
               <CardContent className="p-8">
-                <p className="text-muted-foreground text-center mb-8">
-                  Our small but dedicated team is committed to providing exceptional service to every tenant. 
+                  <p className="text-muted-foreground text-center mb-8">
+                  Our dedicated team is committed to providing exceptional service to every tenant. 
                   We're available to answer questions, handle maintenance requests, and help you find the 
-                  perfect rental home.
+                  perfect rental home. We understand that every tenant's situation is unique, which is why 
+                  we offer flexible payment plans and work with our tenants to find solutions that work for everyone.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   <div className="text-center">

@@ -1,6 +1,6 @@
-# Brookwood Property Management - Real Estate Rental Site
+# Brookwood Property Management - Georgia Rental Properties
 
-A modern, production-ready real estate rental website built with Next.js 15, TypeScript, and Tailwind CSS. This site is designed for small rental companies managing multiple properties with an easy-to-use CMS for content management.
+A modern, production-ready real estate rental website built with Next.js 15, TypeScript, and Tailwind CSS. This site showcases 5 quality rental properties in Snellville and Lawrenceville, Georgia, with flexible payment options and professional property management.
 
 ## 🌟 Features
 
@@ -157,9 +157,9 @@ Example property JSON:
   "id": "prop-012",
   "title": "Property Title",
   "address": "123 Main St",
-  "city": "Brookwood",
-  "state": "IL",
-  "zipCode": "62701",
+  "city": "Snellville",
+  "state": "GA",
+  "zipCode": "30078",
   "price": 1500,
   "bedrooms": 3,
   "bathrooms": 2,

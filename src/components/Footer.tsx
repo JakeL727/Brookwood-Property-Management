@@ -13,7 +13,7 @@ export default function Footer() {
               <span className="text-lg font-bold">Brookwood Property Management</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              Quality rental properties for over 10 years. Find your perfect home today.
+              Quality rental properties in Snellville and Lawrenceville, Georgia. Find your perfect home today.
             </p>
           </div>
 
